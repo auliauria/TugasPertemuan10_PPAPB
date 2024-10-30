@@ -1,0 +1,13 @@
+<!-- res/menu/bottom_nav_menu.xml -->
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/navigation_email"
+        android:icon="@drawable/ic_email"
+        android:iconTint="@color/dark_grey"
+        android:title="Email" />
+    <item
+        android:id="@+id/navigation_video"
+        android:icon="@drawable/ic_videocam"
+        android:iconTint="@color/dark_grey"
+        android:title="Video Call" />
+</menu>
